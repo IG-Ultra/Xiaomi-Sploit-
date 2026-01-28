@@ -8,3 +8,4 @@ bin/
 build/
 *.apk
 __pycache__/
+token.txt
