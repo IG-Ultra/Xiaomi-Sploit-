@@ -1,0 +1,10 @@
+Android/
+Movies/
+Music/
+Pictures/
+DCIM/
+.thumbnails/
+bin/
+build/
+*.apk
+__pycache__/
