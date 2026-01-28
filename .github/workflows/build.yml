@@ -20,7 +20,7 @@ jobs:
           buildozer_version: stable
 
       - name: Upload APK
-        uses: actions/upload-artifact@v4   # ✅ updated to v4
+        uses: actions/upload-artifact@v4
         with:
           name: APK
           path: bin/*.apk
